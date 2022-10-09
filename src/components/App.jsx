@@ -30,6 +30,13 @@ function App() {
                     email: value
                 };
             }
+
+            // setContact(prevValue => {
+            //     return {
+            //         ...prevValue,
+            //         [name]: value
+            //     };
+            // });
         });
     }
 
